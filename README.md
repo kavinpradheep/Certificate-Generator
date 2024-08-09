@@ -1,1 +1,1 @@
-# Cirtificate-Generator
+# Certificate-Generator
